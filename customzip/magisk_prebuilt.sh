@@ -107,5 +107,5 @@ verify()
 	[ ${VERIFY_RET} -eq 0 ] && exit 0 || exit 1
 }
 
-download_magisk
-verify
+#download_magisk
+#verify
